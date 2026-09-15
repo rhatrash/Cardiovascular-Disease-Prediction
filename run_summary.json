@@ -1,0 +1,6 @@
+{
+  "modeling_sample_rows":12000,
+  "best_model":"Random Forest",
+  "best_test_accuracy":0.7395833333,
+  "full_clean_rows":68618
+}
